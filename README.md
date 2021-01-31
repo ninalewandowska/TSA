@@ -1,6 +1,6 @@
 # TSA
 
-This data analysis project was made as an reinterpretation of code provided in R to Python. 
+This time series data analysis project was made as an reinterpretation of code provided in R to Python. 
 The analysis was part of the lecture on Financial Econometrics.
 
 The goal of this analysis is to find model that best fits the time series data. 
